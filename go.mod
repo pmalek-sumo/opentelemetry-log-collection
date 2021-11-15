@@ -7,15 +7,15 @@ require (
 	github.com/bmatcuk/doublestar/v3 v3.0.0
 	github.com/jpillora/backoff v1.0.0
 	github.com/json-iterator/go v1.1.11
-	github.com/mitchellh/mapstructure v1.4.1
+	github.com/mitchellh/mapstructure v1.4.2
 	github.com/observiq/ctimefmt v1.0.0
 	github.com/observiq/go-syslog/v3 v3.0.2
 	github.com/observiq/nanojack v0.0.0-20201106172433-343928847ebc
 	github.com/stretchr/testify v1.7.0
-	go.opentelemetry.io/collector v0.31.0
-	go.uber.org/zap v1.19.0
+	go.opentelemetry.io/collector v0.39.0
+	go.uber.org/zap v1.19.1
 	golang.org/x/exp v0.0.0-20200331195152-e8c3332aa8e5 // indirect
-	golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1
+	golang.org/x/sys v0.0.0-20211013075003-97ac67df715c
 	golang.org/x/text v0.3.7
 	gonum.org/v1/gonum v0.9.3
 	gopkg.in/yaml.v2 v2.4.0
@@ -39,7 +39,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/stretchr/objx v0.2.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
-	go.uber.org/multierr v1.6.0 // indirect
+	go.uber.org/multierr v1.7.0 // indirect
 	golang.org/x/net v0.0.0-20210614182718-04defd469f4e // indirect
 	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c // indirect
 	golang.org/x/term v0.0.0-20210220032956-6a3ed077a48d // indirect
